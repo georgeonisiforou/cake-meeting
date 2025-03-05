@@ -36,6 +36,13 @@ export const quotes = [
     picture: "sixthsense.jpg",
   },
   {
+    id: 18,
+    quote:
+      "My momma always said, 'Life was like a box of chocolates. You never know what you're gonna get.'",
+    from: "Forrest Gump - Forrest Gump",
+    picture: "forrest.jpg",
+  },
+  {
     id: 3,
     quote:
       "Look to my coming at first light on the fifth day. At dawn, look to the East.",
@@ -43,10 +50,23 @@ export const quotes = [
     picture: "lotr.jpg",
   },
   {
+    id: 18,
+    quote:
+      "This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit hole goes.",
+    from: "Morpheus - The Matrix",
+    picture: "matrix.jpg",
+  },
+  {
     id: 6,
     quote: "Does he look like a bitch?!",
     from: "Jules Winnfield - Pulp Fiction",
     picture: "pulpfiction.jpg",
+  },
+  {
+    id: 18,
+    quote: "We Are All Connected in the Great Circle of Life.",
+    from: "Mufasa - Lion King",
+    picture: "lion.jpg",
   },
   {
     id: 5,
@@ -65,6 +85,12 @@ export const quotes = [
     quote: "Not quite my tempo",
     from: "Terence Fletcher - Whiplash",
     picture: "whiplash.jpg",
+  },
+  {
+    id: 18,
+    quote: "Here's Johnny!",
+    from: "Jack Torrance - The Shining",
+    picture: "shining.jpg",
   },
   {
     id: 24,
@@ -154,6 +180,19 @@ export const quotes = [
     picture: "it.jpg",
   },
   {
+    id: 18,
+    quote:
+      "What is the most resilient parasite? Bacteria? A virus? An intestinal worm? An idea. Resilient... highly contagious. Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.",
+    from: "Cobb - Inception",
+    picture: "inception.jpg",
+  },
+  {
+    id: 18,
+    quote: "What's the most you ever lost on a coin toss?",
+    from: "Anton Chigurh - No Country for Old Men",
+    picture: "nocountry.jpg",
+  },
+  {
     id: 20,
     quote: "What's in the box? What's in the fucking box?!",
     from: "David Mills - Se7en",
@@ -198,6 +237,13 @@ export const quotes = [
     quote: "You can't handle the truth!",
     from: "Col. Nathan R. Jessep - A Few Good Men",
     picture: "afewgoodmen.jpg",
+  },
+  {
+    id: 18,
+    quote:
+      "Who is Keyser Soze? He is supposed to be Turkish. Some say his father was German. Nobody believed he was real. Nobody ever saw him or knew anybody that ever worked directly for him, but to hear Kobayashi tell it, anybody could have worked for Soze. You never knew. That was his power. The greatest trick the Devil ever pulled was convincing the world he didn't exist. And like that, poof. He's gone.",
+    from: "Verbal - The Usual Suspects",
+    picture: "usualsuspects.jpg",
   },
   {
     id: 29,

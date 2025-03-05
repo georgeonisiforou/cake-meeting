@@ -14,7 +14,7 @@ export default function Home() {
       <div className="flex flex-col z-10">
         <span className="text-[3vw]">Description:</span>
         <ul className="list-disc">
-          <li>36 quotes from movies or tv series to guess</li>
+          <li>43 quotes from movies or tv series to guess</li>
           <li>90 seconds timer</li>
           <li>Questions will become more difficult as the game progresses</li>
           <li>Each guess is 1 point for the team</li>
